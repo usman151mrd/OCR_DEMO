@@ -1,2 +1,2 @@
 # OCR_DEMO
-## how to run
+will be update soon description dependencies and how to run the code
